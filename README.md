@@ -6,6 +6,7 @@ Computer Engineering student at **Erzincan Binali Yıldırım University**.
 - 🤖 Interested in computer vision, embedded systems, games and web development
 - 🌱 Board member at **GDG on Campus EBYÜ**
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -15,6 +16,10 @@ Computer Engineering student at **Erzincan Binali Yıldırım University**.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat&logo=ultralytics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat)
+![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B00?style=flat&logo=autodesk&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat)
