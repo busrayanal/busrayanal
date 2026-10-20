@@ -14,5 +14,6 @@ Computer Engineering student at **Erzincan Binali Yıldırım University**.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat&logo=ultralytics&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat)
 
 📫 [LinkedIn](https://www.linkedin.com/in/b%C3%BC%C5%9Fra-amine-yanal-53280931b/) · [busrayanal@hotmail.com](mailto:busrayanal@hotmail.com)
